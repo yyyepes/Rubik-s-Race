@@ -1,6 +1,6 @@
 # Rubik-s-Race
 
-## ** Miembros - Grupo 1:** 
+### Miembros - Grupo 1:
 Yazmina Yepes, 
 Luisangel Parra, 
 Jorge Peña
